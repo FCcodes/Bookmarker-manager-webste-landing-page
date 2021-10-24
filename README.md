@@ -9,6 +9,11 @@ The is a statically generated website landing page made with [Next js](https://n
 
 ### Website Snapshots
 
+- Phone View
+
+- Tablet View
+
+- Laptop View
  
 
 

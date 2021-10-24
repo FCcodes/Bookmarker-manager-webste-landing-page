@@ -143,7 +143,7 @@ export default function Home() {
                     p: { tablet: 1 },
                     mb: 3,
                     textAlign: { phone: "center", tablet: "initial" },
-                    maxWidth: { laptop: "90%" },
+                    maxWidth: { tablet: "70%",  laptop: "90%" },
                   }}
                 >
                   A Simple BookMark Manager
